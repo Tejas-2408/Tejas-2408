@@ -1,132 +1,220 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:3b1f80,100:6c5ce7&height=220&section=header&text=Tejas%20Bansal&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Founder%20%40%20TJCR&descAlignY=58&descAlign=50" width="100%" alt="Tejas Bansal Banner" />
+</div>
 
-# Hey, I'm Tejas 👋
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%26+Open-Source+Builder;AI+Engineer+crafting+Gemini+%26+LLM+apps;Founder+%40+TJCR+(tjcr.in)+-+Shipping+Fast;Vibe+Coding+backed+by+Production+Engineering" alt="Typing SVG" />
+  </a>
+</div>
 
-### Full-Stack Developer · Vibe Coder · Open-Source Builder · Freelancer
+<div align="center">
 
-*I turn ideas into live products: web apps, Chrome extensions and AI tools, built fast with AI and shipped with real engineering discipline.*
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-tjcr.in-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tjcr.in/)
+[![Hire Me](https://img.shields.io/badge/💼%20Hire%20Me-Freelance%20(3--7%20Days)-00B894?style=for-the-badge)](https://tjcr.in/#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas24bansal/)
+[![Email](https://img.shields.io/badge/Email-tejasbansal6065-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasbansal6065@gmail.com?subject=Hello%20Tejas%20-%20Project%20%2F%20Collaboration)
+[![LeetCode](https://img.shields.io/badge/LeetCode-tejas__2408-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tejas_2408/)
 
 <br/>
 
-<a href="https://tjcr.in/"><img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-tjcr.in-6C5CE7?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://tjcr.in/#contact"><img src="https://img.shields.io/badge/💼%20HIRE%20ME-Freelance-00B894?style=for-the-badge" alt="Hire me"/></a>
-
-<a href="https://www.linkedin.com/in/tejas24bansal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tejasbansal6065@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/tejas_2408/"><img src="https://img.shields.io/badge/LeetCode-tejas__2408-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Tejas-2408&style=flat-square&color=6C5CE7&label=Profile+Views"/>
+<a href="https://github.com/Tejas-2408?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Tejas--2408-181717?style=flat-square&logo=github" alt="Follow on GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Tejas-2408&style=flat-square&color=6C5CE7&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"/>
+<img src="https://img.shields.io/badge/Open%20Source-Builder-blue?style=flat-square" alt="Open Source"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Tejas Bansal**, founder of **[TJCR (Tejas Creatives)](https://tjcr.in/)**. I build fast websites, e-commerce stores, Chrome extensions and AI-powered tools for clients, and I publish developer utilities as open source.
+I am **Tejas Bansal**, full-stack software engineer, open-source creator, and founder of **[TJCR (Tejas Creatives)](https://tjcr.in/)**. I build high-impact web apps, Chrome extensions, and intelligent AI tools that turn ambitious ideas into reliable, shipped products.
 
-My style is **vibe coding with engineering discipline**: I describe the vision, let AI draft quickly, then own the architecture, edge cases, testing and deployment. That's how side-project ideas become live, usable products in days, not months.
+My development philosophy centers on **vibe coding with engineering discipline**: harnessing modern AI tools to ideate and iterate at high velocity, paired with rigorous software architecture, edge-case hardening, test automation, and production-grade stability.
 
-- 🛠️ **Freelance:** static business sites, e-commerce stores, AI automations and API integrations for real clients
-- 🧩 **Open source:** developer tools and Chrome extensions that anyone can use, fork and improve
-- 🤝 **Contributing:** I like fixing bugs and improving other people's projects, not just my own
-- 🏢 **Background:** enterprise SaaS support at Sprinklr taught me API debugging, root-cause analysis and production troubleshooting
-- 🌱 **Exploring:** AI agents, LLM integrations and system design
-- 💬 **Ask me about:** React, Next.js, Spring Boot, Chrome extensions, Gemini/OpenAI APIs, API testing
+* 🚀 **Founder @ [TJCR](https://tjcr.in/):** Shipping client web applications, e-commerce stores, and custom automations in 3–7 day turnarounds.
+* 🧩 **Open-Source Builder:** Building accessible developer utilities and browser extensions that solve real daily friction.
+* 🏢 **Enterprise Roots:** Honed in high-scale enterprise SaaS support at Sprinklr — seasoned in API diagnostics, root-cause troubleshooting, and distributed system stability.
+* 🤖 **AI & LLM Integration:** Building end-user experiences with Gemini, Claude, and OpenAI APIs, structured outputs, and agentic workflows.
+* 💬 **Tech I Love Discussing:** React, Next.js, Spring Boot, Chrome Extensions (MV3), API architecture, and prompt engineering.
 
-> **🌐 See my client work, services and reviews → [tjcr.in](https://tjcr.in/)**
-
----
-
-## 🚀 Live Projects (try them now)
-
-| | Project | What it does | Tech | Try it |
-|---|---|---|---|---|
-| 🧞 | **[MailGenie](https://github.com/Tejas-2408/MailGenie)** | AI email assistant that drafts, summarizes and manages emails from any Gmail tab, as a web app and a Chrome extension | React · Vite · Tailwind · Spring Boot · Gemini API · Docker | [Live demo](https://mailgenie-ikfh.onrender.com) |
-| ⏱️ | **[Epoch Time Converter](https://github.com/Tejas-2408/epoch-time-converter)** | Chrome extension (Manifest V3) that finds Unix timestamps on any page and shows readable time in your chosen timezone, plus a two-way converter | JavaScript · Chrome Extension APIs | [Web tool](https://epoch.tjcr.in) |
-| 🕐 | **[CronView](https://github.com/Tejas-2408/cron-expression-converter)** | Cron expression evaluator and multi-dialect converter (Quartz, UNIX, AWS EventBridge, Jenkins, Kubernetes) with next-run preview and edge-case warnings | Next.js 14 · TypeScript · Tailwind · Vercel | [Live app](https://cronview-six.vercel.app) |
-| 🎬 | **[Movie Recommendation](https://github.com/Tejas-2408/Movie-Recommendation)** | Machine-learning movie recommender that suggests films based on similarity | Python · scikit-learn · Streamlit | [Live demo](https://movie-recommendation-for-you.streamlit.app/) |
-
-## 🧱 More Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🔗 **[ZipLink](https://github.com/Tejas-2408/ZipLink)** | Bitly-style URL shortener with a personal dashboard and click analytics | Full-stack · Spring Boot |
-| 🎵 **[Spotify-API](https://github.com/Tejas-2408/Spotify-API)** | Spotify Web API integration and testing work | REST · API automation |
-| 🧪 **[Rest-Assured-FrameWork](https://github.com/Tejas-2408/Rest-Assured-FrameWork)** | API test automation framework with design docs and an online-store suite | Java · Rest Assured |
+> 🌐 **Explore client work, testimonials & services → [tjcr.in](https://tjcr.in/)**
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<div align="center">
+  <p><i>Live products and developer tools built for speed, utility, and scale</i></p>
+</div>
+
+### 🧞 [MailGenie — AI Email Assistant](https://github.com/Tejas-2408/MailGenie)
+> **Smarter email management:** drafts, summarizes, and contextually answers emails directly from your Gmail workflow, available as both a web application and a Chrome extension.
+- **Tech Stack:** `React` · `Vite` · `Tailwind CSS` · `Spring Boot` · `Gemini API` · `Docker`
+- **Key Features:** Multi-modal prompt handling, smart thread summarization, and seamless Gmail integration.
+- **Quick Links:** [![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20MailGenie-00B894?style=flat-square&logo=render&logoColor=white)](https://mailgenie-ikfh.onrender.com) [![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-6C5CE7?style=flat-square&logo=github)](https://github.com/Tejas-2408/MailGenie)
 
 ---
 
-## ⚡ My Vibe Coding Workflow
-
-```text
-💡 Idea → 🗣️ Prompt & Plan → 🤖 AI Drafts → 🔍 I Review & Refactor → ✅ Test → 🚀 Deploy → 🔁 Iterate
-```
-
-1. **Frame the problem** before touching code
-2. **Let AI write the first pass**, then challenge every assumption
-3. **Own the architecture:** structure, security, naming, boundaries
-4. **Test the edge cases** (see the skip-rules in my Epoch converter)
-5. **Ship small, get feedback, iterate**
+### 🕐 [CronView — Multi-Dialect Cron Expression Engine](https://github.com/Tejas-2408/cron-expression-converter)
+> **Never misconfigure a scheduled job again:** evaluates cron strings into plain human English, converts between 5 major dialects, and forecasts upcoming execution schedules.
+- **Tech Stack:** `Next.js 14` · `TypeScript` · `Tailwind CSS` · `Vercel`
+- **Supported Dialects:** Quartz, UNIX Standard, AWS EventBridge, Jenkins, and Kubernetes.
+- **Quick Links:** [![Live App](https://img.shields.io/badge/Live%20App-Try%20CronView-00B894?style=flat-square&logo=vercel&logoColor=white)](https://cronview-six.vercel.app) [![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-6C5CE7?style=flat-square&logo=github)](https://github.com/Tejas-2408/cron-expression-converter)
 
 ---
 
-## 🧰 Freelance Services
-
-Delivered via [TJCR](https://tjcr.in/) with a 3-7 day turnaround:
-
-- 🌐 Static business websites (React / Next.js / Tailwind)
-- 🛒 E-commerce stores with payment gateway integration
-- 🤖 AI tools and automations (Gemini / OpenAI)
-- 🔌 API integrations (Stripe, Razorpay, CRMs)
-- ⚡ Performance, SEO and bug-fixing
-
-👉 **[Start a project](https://tjcr.in/#contact)**
+### ⏱️ [Epoch Time Converter — Smart Timestamp Inspector](https://github.com/Tejas-2408/epoch-time-converter)
+> **Contextual time conversion anywhere on the web:** Manifest V3 Chrome extension that auto-detects Unix timestamps on any active page, paired with a two-way timezone conversion suite.
+- **Tech Stack:** `JavaScript` · `Chrome Extension APIs (MV3)` · `HTML5` · `CSS3`
+- **Key Features:** Non-intrusive DOM scanning, robust skip-rules for numbers/IDs, and instant local vs UTC preview.
+- **Quick Links:** [![Web Tool](https://img.shields.io/badge/Web%20Tool-Open%20Converter-00B894?style=flat-square&logo=googlechrome&logoColor=white)](https://epoch.tjcr.in) [![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-6C5CE7?style=flat-square&logo=github)](https://github.com/Tejas-2408/epoch-time-converter)
 
 ---
 
-## 📊 GitHub Stats
+### 🎬 [Movie Recommendation Engine](https://github.com/Tejas-2408/Movie-Recommendation)
+> **Personalized cinema discovery:** Machine-learning similarity engine predicting top recommendations based on content metadata, genres, and vector distances.
+- **Tech Stack:** `Python` · `Scikit-Learn` · `Pandas` · `Streamlit`
+- **Quick Links:** [![Live Demo](https://img.shields.io/badge/Live%20Demo-Explore%20Movies-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://movie-recommendation-for-you.streamlit.app/) [![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-6C5CE7?style=flat-square&logo=github)](https://github.com/Tejas-2408/Movie-Recommendation)
+
+<br/>
+
+<details>
+<summary><b>📂 More Open-Source Projects & Frameworks (Click to expand)</b></summary>
+<br/>
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🔗 **[ZipLink](https://github.com/Tejas-2408/ZipLink)** | Full-featured URL shortener with real-time analytics dashboard & click tracking | Java, Spring Boot, REST APIs, MySQL | [View Code →](https://github.com/Tejas-2408/ZipLink) |
+| 🧪 **[Rest-Assured-FrameWork](https://github.com/Tejas-2408/Rest-Assured-FrameWork)** | Enterprise-grade API test automation framework with design docs & online-store test suites | Java, Rest Assured, TestNG, Maven | [View Code →](https://github.com/Tejas-2408/Rest-Assured-FrameWork) |
+| 🎵 **[Spotify-API](https://github.com/Tejas-2408/Spotify-API)** | Spotify Web API integration, automated token lifecycle, and playlist exploration | REST APIs, Postman, JavaScript | [View Code →](https://github.com/Tejas-2408/Spotify-API) |
+
+</details>
+
+---
+
+## 🛠️ Tech Toolbox & Skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejas-2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-2408&layout=compact&theme=tokyonight&hide_border=true"/>
+### Frontend & Web Engineering
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" alt="Frontend skills" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Tejas-2408&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+### Backend, Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,docker,mongodb,mysql" alt="Backend skills" />
+</a>
+
+<br/><br/>
+
+### Tooling, DevOps & Workflows
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools" />
+</a>
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Chrome_Extensions_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome MV3"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C5CE7?style=flat-square" alt="Prompt Engineering"/>
+</p>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-Open to freelance work, collaborations and open-source contributions.
+## 📈 Activity Calendar & GitHub Metrics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tjcr.in-6C5CE7?style=for-the-badge)](https://tjcr.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas24bansal/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasbansal6065@gmail.com)
+### 🗓️ Contribution Activity Calendar
+<p><i>Year-round commit history & open-source activity graph</i></p>
 
-*⭐ If a project helped you, drop a star. It makes my day.*
+<a href="https://github.com/Tejas-2408">
+  <img width="98%" src="https://ghchart.rshah.org/6C5CE7/Tejas-2408" alt="Tejas's GitHub Contribution Calendar" />
+</a>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+<a href="https://github.com/Tejas-2408">
+  <img src="https://streak-stats.demolab.com?user=Tejas-2408&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+### 📊 Repository Statistics & Languages
+<a href="https://github.com/Tejas-2408">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Tejas-2408&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=94A3B8&count_private=true" alt="Tejas's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-2408&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+## ⚡ The Vibe Coding Workflow
+
+```
+💡 Vision & Specs ➔ 📐 System Boundaries ➔ 🤖 AI Rapid Draft ➔ 🔍 Human Architecture & Refactoring ➔ 🧪 Edge-Case Testing ➔ 🚀 Cloud Deploy ➔ 🔁 Feedback
+```
+
+1. **Problem Framing First:** Pin down the UX, data schema, and security model before generating code.
+2. **AI-Accelerated Drafts:** Use frontier models to build boilerplate and explore creative approaches in minutes.
+3. **Engineering Ownership:** Refactor into modular components, enforce strict types, secure APIs, and clean dependencies.
+4. **Defensive Edge Testing:** Validate tricky conditions (timezone boundaries, leap seconds, malformed payloads, rate limits).
+5. **Ship & Iterate:** Deploy live, monitor in real conditions, and incorporate feedback quickly.
+
+---
+
+## 🧰 Freelance Services (via TJCR)
+
+Delivered through **[TJCR](https://tjcr.in/)** with an average **3–7 day turnaround**:
+
+* 🌐 **Modern Business Websites:** Fast, responsive, SEO-ready web apps built with Next.js, React & Tailwind.
+* 🛒 **E-Commerce Stores:** Complete storefronts with secure payment gateway integrations (Razorpay, Stripe).
+* 🤖 **AI Automations & Utilities:** Tailored internal tools powered by Gemini, Claude, and OpenAI APIs.
+* 🧩 **Chrome Extension Development:** MV3 extensions for workflows, automation, or custom business tools.
+* ⚡ **Performance & Bug Fixing:** Core Web Vitals optimization, API troubleshooting, and refactoring.
+
+👉 **[Start a project with TJCR →](https://tjcr.in/#contact)**
+
+---
+
+## 🤝 Let's Collaborate & Build Together!
+
+I actively welcome open-source contributions, collaborations, and discussions:
+
+> [!TIP]
+> **Interested in contributing to an open-source project?**
+> Check out [MailGenie](https://github.com/Tejas-2408/MailGenie), [CronView](https://github.com/Tejas-2408/cron-expression-converter), or [Epoch Time Converter](https://github.com/Tejas-2408/epoch-time-converter)! Whether it is fixing a typo, adding a new cron dialect, optimizing UI responsiveness, or submitting a feature PR — all contributions and issues are warmly appreciated!
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tjcr.in-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tjcr.in/)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-TJCR-00B894?style=for-the-badge)](https://tjcr.in/#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas24bansal/)
+[![Email](https://img.shields.io/badge/Email-tejasbansal6065-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasbansal6065@gmail.com?subject=Hello%20Tejas%20-%20GitHub%20Connect)
+
+<br/>
+
+⭐ **Found a project helpful? Drop a star on GitHub — it means a lot and supports open-source development!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:6c5ce7,50:3b1f80,100:0d1117&height=90&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
